@@ -1,0 +1,159 @@
+body {
+  
+ 
+    background-color: #1f1f1f;
+      color: #fff;
+      
+     
+    font-family: Arial, sans-serif;
+    }
+    
+    .container {
+      
+     
+    max-width: 600px;
+      
+     
+    margin: 0 auto;
+      
+     
+    padding: 20px;
+    }
+    
+    .boton-inicio {
+      text-align: right;
+      
+     
+    margin-bottom: 20px;
+    }
+    
+    .boton-princiapal {
+      text-decoration: none;
+    }
+    
+    .botonPrincipal {
+      
+     
+    background-color: #333;
+      
+     
+    color: #fff;
+      
+     
+    border: none;
+      
+     
+    padding: 10px 20px;
+      
+     
+    font-size: 16px;
+      
+     
+    border-radius: 4px;
+    }
+    
+    h1 {
+      font-size: 24px;
+      
+     
+    margin-bottom: 10px;
+    }
+    
+    .counter {
+      display: flex;
+      
+     
+    align-items: center;
+    }
+    
+    .counter button {
+      background-color: #333;
+      
+     
+    color: #fff;
+      
+     
+    border: none;
+      
+     
+    padding: 10px 20px;
+      
+     
+    font-size: 20px;
+      
+     
+    border-radius: 4px;
+      
+     
+    cursor: pointer;
+    }
+    
+    .counter #count {
+      
+     
+    font-size: 36px;
+      
+     
+    margin: 0 20px;
+    }
+    
+    .temporizador {
+      
+     
+    display: flex;
+      
+     
+    align-items: center;
+      
+     
+    margin-top: 20px;
+    }
+    
+    .temporizador input {
+      
+     
+    width: 200px;
+      
+     
+    padding: 10px;
+      
+     
+    font-size: 16px;
+      
+     
+    border-radius: 4px;
+      
+     
+    border: none;
+      
+     
+    margin-right: 10px;
+    }
+    
+    .temporizador button {
+      
+     
+    background-color: #333;
+      
+     
+    color: #fff;
+      
+     
+    border: none;
+      
+     
+    padding: 10px 20px;
+      
+     
+    font-size: 16px;
+      
+     
+    border-radius: 4px;
+      
+     
+    cursor: pointer;
+    }
+    
+    
+    
+    
